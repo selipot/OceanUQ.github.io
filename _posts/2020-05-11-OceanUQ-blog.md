@@ -4,6 +4,5 @@ title: "Announcing the OceanUQ blog!"
 date: 2020-05-11
 ---
 
-OceanUQ blog!
+This is the first OceanUQ blog post!
 
-Powered by [Jekyll](http://jekyllrb.com)

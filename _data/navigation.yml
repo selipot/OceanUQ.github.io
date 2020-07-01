@@ -6,5 +6,9 @@ main:
     url: /blog/
   - title: "Learn"
     url: /learn/
+  #- title: "Team"
+  #  url: /team/
+  - title: "News"
+    url: /news/
   # - title: "Sitemap"
   #   url: /sitemap/

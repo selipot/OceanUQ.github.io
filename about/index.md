@@ -10,10 +10,28 @@ There already exists a momentum among oceanographic communities for activities s
 
 The objectives of the WG are:
 
-- To develop a community-driven web platform for UQ knowledge and strategies.</li>
-- To produce peer-reviewed open-access articles on UQ for observational and model ocean data.</li>
+- To develop a community-driven web platform for UQ knowledge and strategies.
+- To produce peer-reviewed open-access articles on UQ for observational and model ocean data.
 - To organize a summer school and/or workshop on UQ.
 
+## Our Team
+
+Kyla Drushka(http://apl.uw.edu/people/profile.php?last_name=Drushka&first_name=Kyla) (co-chair) -	University of Washington
+Shane Elipot (co-chair) -	University of Miami
+Aneesh Subramanian (co-chair) - University of Colorado
+Amy Braverman	- NASA Jet Propulsion Laboratory
+Mark Bushnell -	US IOOS (consultant)
+Carol Anne Clayson -	Woods Hole Oceanographic Institution
+Sergey Frolov -	University of Colorado/CIRES and NOAA ESRL
+Chelle Gentemann -	Farallon Institute
+Donata Giglio -	University of Colorado
+Patrick Heimbach -	University of Texas at Austin
+Mikael Kuusela - 	Carnegie Mellon University
+David Moroni -	NASA Jet Propulsion Laboratory
+Wendy Parker -	Durham University, UK
+Alek Petty -	NASA Goddard and University of Maryland
+Roberto Sabia -	Telespazio-Vega UK Ltd. for ESA, Italy
+Adam Sykulski -	Lancaster University, UK
 
 <!---
 Text about OceanUQ goes here. It could include:  details about the motivation and goals of the group and this website. Link to US CLIVAR. Details about sponsorship. Working group member profiles.

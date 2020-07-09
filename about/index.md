@@ -16,7 +16,7 @@ The objectives of the WG are:
 
 ## Our Team
 
-Kyla Drushka(http://apl.uw.edu/people/profile.php?last_name=Drushka&first_name=Kyla) (co-chair) -	University of Washington
+<a href="http://apl.uw.edu/people/profile.php?last_name=Drushka&first_name=Kyla"> Kyla Drushka</a> (co-chair) -	University of Washington
 Shane Elipot (co-chair) -	University of Miami
 Aneesh Subramanian (co-chair) - University of Colorado
 Amy Braverman	- NASA Jet Propulsion Laboratory

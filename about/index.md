@@ -16,7 +16,49 @@ The objectives of the WG are:
 
 ## Our Team
 
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
+      <div class="container">
+        <h2>Kyla Drushka</h2>
+        <p class="title">co-chair</p>
+        <p>Some text that describes me.</p>
+        <p>kdrushka@uw.edu</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
+      <div class="container">
+        <h2>Shane Elipot</h2>
+        <p class="title">co-chair</p>
+        <p>Some text that describes me .</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="aneesh.jpeg" alt="Aneesh" style="width:100%">
+      <div class="container">
+        <h2>Aneesh Subramanian</h2>
+        <p class="title">co-chair</p>
+        <p>Some text that describes me.</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <a href="http://apl.uw.edu/people/profile.php?last_name=Drushka&first_name=Kyla"> Kyla Drushka</a> (co-chair) -	University of Washington
+
 Shane Elipot (co-chair) -	University of Miami
 Aneesh Subramanian (co-chair) - University of Colorado
 Amy Braverman	- NASA Jet Propulsion Laboratory

@@ -54,6 +54,11 @@ The objectives of the WG are:
         <!-- <p>example@example.com</p> -->
         <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- <p><button class="button">Contact</button></p> -->
+        <li>
+          <a itemprop="sameAs" href="https://twitter.com/aneeshcs" target="_blank" rel="noopener">
+            <i class="fa fa-twitter big-icon"></i>
+          </a>
+        </li>
       </div>
     </div>
   </div>

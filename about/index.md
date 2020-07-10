@@ -32,24 +32,25 @@ The objectives of the WG are:
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
+      <img class="circular" src="/assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
       <div class="container">
         <h2>Shane Elipot</h2>
         <p class="title">co-chair</p>
-        <p>Some text that describes me .</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <!-- <p>Some text that describes me .</p> -->
+        <!-- <p>example@example.com</p> -->
+        <!-- <p><button class="button">Contact</button></p> -->
+        <a href="https://twitter.com/ShaneKahn?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ShaneKahn</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="/assets/images/team/aneesh.jpeg" alt="Aneesh" style="width:100%">
+      <img class="circular" src="/assets/images/team/aneesh.jpeg" alt="Aneesh" style="width:100%">
       <div class="container">
-        <h2>Aneesh Subramanian</h2>
+        <h2><a href="http://www.aneeshcs.com">Aneesh Subramanian</a></h2>
         <p class="title">co-chair</p>
-        <p>Some text that describes me.</p>
+        <!-- <p>Some text that describes me.</p> -->
         <!-- <p>example@example.com</p> -->
         <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- <p><button class="button">Contact</button></p> -->

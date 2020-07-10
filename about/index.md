@@ -35,7 +35,9 @@ The objectives of the WG are:
 
   <div class="column">
     <div class="card">
-      <img class="circular" src="/assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
+      <div class="circular--portrait">
+            <img src="/assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
+      </div>
       <div class="container">
         <h2><a href="https://selipot.github.io/">Shane Elipot</a></h2>
         <p class="title">co-chair</p>

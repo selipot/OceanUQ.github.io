@@ -19,7 +19,7 @@ The objectives of the WG are:
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="/assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
+      <img class="circular" src="/assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
       <div class="container">
         <h2>Kyla Drushka</h2>
         <p class="title">co-chair</p>
@@ -50,7 +50,7 @@ The objectives of the WG are:
         <h2>Aneesh Subramanian</h2>
         <p class="title">co-chair</p>
         <p>Some text that describes me.</p>
-        <p>example@example.com</p>
+        <!-- <p>example@example.com</p> -->
         <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- <p><button class="button">Contact</button></p> -->
       </div>

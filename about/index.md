@@ -20,7 +20,9 @@ The objectives of the WG are:
 <div class="row">
   <div class="column">
     <div class="card">
-      <img class="circular" src="/assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
+      <div class="circular--portrait">
+              <img src="/assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
+      </div>
       <div class="container">
         <h2><a href="http://faculty.washington.edu/kdrushka/">Kyla Drushka</a></h2>
         <p class="title">co-chair</p>

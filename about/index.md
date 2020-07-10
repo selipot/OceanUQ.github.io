@@ -51,7 +51,8 @@ The objectives of the WG are:
         <p class="title">co-chair</p>
         <p>Some text that describes me.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- <p><button class="button">Contact</button></p> -->
       </div>
     </div>
   </div>

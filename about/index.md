@@ -3,7 +3,12 @@ layout: home
 title: About
 author_profile: false
 ---
+<html>
+<head>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+</head>
 
+<body>
 The [US CLIVAR](https://usclivar.org/) Working Group (WG) on Uncertainty Quantification for ocean variables (OceanUQ) forms a focused forum to discuss how uncertainty quantification and its corollaries could be systematically incorporated into oceanographic research, including but not limited to: training of current and future scientists, observing systems and process studies designs, data workflow, modeling, and data assimilation. A notable point of focus is to assess how both observationalists and modelers should describe uncertainty in their products in order to facilitate the exchange and use of data between their respective communities.
 
 There already exists a momentum among oceanographic communities for activities supporting improved quantification and communication of uncertainties. This WG wants to capitalize on the outcomes and action items from previous activities on UQ, and to serve as a means to provide continuing coordination, progress, and concrete milestones for this topic. The WG activities contribute to the broad mission of the [US CLIVAR science goals](https://usclivar.org/about-us-clivar)
@@ -54,11 +59,9 @@ The objectives of the WG are:
         <!-- <p>example@example.com</p> -->
         <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- <p><button class="button">Contact</button></p> -->
-        <li>
           <a itemprop="sameAs" href="https://twitter.com/aneeshcs" target="_blank" rel="noopener">
             <i class="fa fa-twitter big-icon"></i>
           </a>
-        </li>
       </div>
     </div>
   </div>
@@ -81,6 +84,9 @@ Wendy Parker -	Durham University, UK
 Alek Petty -	NASA Goddard and University of Maryland
 Roberto Sabia -	Telespazio-Vega UK Ltd. for ESA, Italy
 Adam Sykulski -	Lancaster University, UK
+
+</body>
+</html>
 
 <!---
 Text about OceanUQ goes here. It could include:  details about the motivation and goals of the group and this website. Link to US CLIVAR. Details about sponsorship. Working group member profiles.

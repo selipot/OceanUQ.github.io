@@ -22,11 +22,11 @@ The objectives of the WG are:
     <div class="card">
       <img class="circular" src="/assets/images/team/kyla.jpg" alt="Kyla" style="width:100%">
       <div class="container">
-        <h2>Kyla Drushka</h2>
+        <h2><a href="http://faculty.washington.edu/kdrushka/">Kyla Drushka</a></h2>
         <p class="title">co-chair</p>
-        <p>Some text that describes me.</p>
-        <p>kdrushka@uw.edu</p>
-        <p><button class="button">Contact</button></p>
+        <!-- <p>Some text that describes me.</p> -->
+        <!-- <p>kdrushka@uw.edu</p> -->
+        <!-- <p><button class="button">Contact</button></p> -->
       </div>
     </div>
   </div>
@@ -35,7 +35,7 @@ The objectives of the WG are:
     <div class="card">
       <img class="circular" src="/assets/images/team/shane.jpeg" alt="Shane" style="width:100%">
       <div class="container">
-        <h2>Shane Elipot</h2>
+        <h2><a href="https://selipot.github.io/">Shane Elipot</a></h2>
         <p class="title">co-chair</p>
         <!-- <p>Some text that describes me .</p> -->
         <!-- <p>example@example.com</p> -->
@@ -55,9 +55,9 @@ The objectives of the WG are:
         <!-- <p>example@example.com</p> -->
         <a href="https://twitter.com/aneeshcs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @aneeshcs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <!-- <p><button class="button">Contact</button></p> -->
-          <a itemprop="sameAs" href="https://twitter.com/aneeshcs" target="_blank" rel="noopener">
-            <i class="fa fa-twitter big-icon"></i>
-          </a>
+          <!-- <a itemprop="sameAs" href="https://twitter.com/aneeshcs" target="_blank" rel="noopener"> -->
+            <!-- <i class="fa fa-twitter big-icon"></i> -->
+          <!-- </a> -->
       </div>
     </div>
   </div>

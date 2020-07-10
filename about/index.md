@@ -3,7 +3,7 @@ layout: home
 title: About
 author_profile: false
 ---
-<html>
+
 <head>
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
@@ -86,7 +86,7 @@ Roberto Sabia -	Telespazio-Vega UK Ltd. for ESA, Italy
 Adam Sykulski -	Lancaster University, UK
 
 </body>
-</html>
+
 
 <!---
 Text about OceanUQ goes here. It could include:  details about the motivation and goals of the group and this website. Link to US CLIVAR. Details about sponsorship. Working group member profiles.

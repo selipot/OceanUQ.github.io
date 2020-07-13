@@ -191,7 +191,7 @@ The objectives of the WG are:
 
   <div class="column">
     <div class="card">
-      <img class="circular" src="/assets/images/team/roberto.jpeg" alt="Roberto" style="width:100%">
+      <img class="circular" src="/assets/images/team/roberto.jpg" alt="Roberto" style="width:100%">
       <div class="container">
         <h2><a href="https://www.researchgate.net/profile/Roberto_Sabia">Roberto <br> Sabia</a></h2>
       </div>

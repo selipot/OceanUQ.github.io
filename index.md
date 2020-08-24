@@ -3,7 +3,7 @@ layout: single
 author_profile: false
 title: Mission Statement
 header:
-  image: /assets/images/Ocean_Butterfly_banner.jpeg
+  image: /assets/images/Ocean_Butterfly_banner_small.jpeg
 ---
 
 OceanUQ is a platform to develop strategies and identify best practices for improving the understanding, derivation, communication, and utilization of the uncertainties of ocean in-situ, remote, and modeled products related to physical variables.

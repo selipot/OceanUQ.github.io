@@ -1,6 +1,7 @@
 ---
 layout: posts
 author: kyla
+title: "How variability can masquerade as uncertainty: representation errors in satellite salinity"
 ---
 
 # How variability can masquerade as uncertainty: representation errors in satellite salinity measurements

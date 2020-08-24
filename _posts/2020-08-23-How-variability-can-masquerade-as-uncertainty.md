@@ -1,6 +1,6 @@
 ---
 layout: posts
-author: kyla
+author: Kyla Drushka
 title: "How variability can masquerade as uncertainty: representation errors in satellite salinity"
 excerpt_separator: <!--more-->
 ---

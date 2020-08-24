@@ -2,9 +2,9 @@
 layout: archive
 ---
 
-{{ content }}
-
 <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+{{ content }}
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}

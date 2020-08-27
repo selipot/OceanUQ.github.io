@@ -4,12 +4,13 @@ author_profile: false
 title: "Resources for uncertainty quantification for physical ocean variables"
 ---
 
-## Guides and handbooks for best practices in quantifying uncertainty
+## Guides, websites, and handbooks for best practices in quantifying uncertainty
 
 - The &quot;GUM&quot; Evaluation of measurement data — Guide to the expression of uncertainty in measurement: [https://www.bipm.org/utils/common/documents/jcgm/JCGM\_100\_2008\_E.pdf](https://www.bipm.org/utils/common/documents/jcgm/JCGM_100_2008_E.pdf)
 - Quality Assurance of Oceanographic Observations: Standards and Guidance Adopted by an International Partnership, [https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full](https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full). Discussion of uncertainty in paper and good example of UQ in the [Supplemental Material](https://www.frontiersin.org/articles/10.3389/fmars.2019.00706/full#S11).
 - Quantifying Uncertainty in Analytical Measurement, EURACHEM / CITAC Guide CG 4, [https://www.eurachem.org/images/stories/Guides/pdf/QUAM2012\_P1.pdf](https://www.eurachem.org/images/stories/Guides/pdf/QUAM2012_P1.pdf).
 - Journal of Open Source Software: peer reviewed code best practices [https://joss.theoj.org/](https://joss.theoj.org/)
+- [Ocean Best Practices](https://www.oceanbestpractices.org/)
 
 ## Publications and reports
 
